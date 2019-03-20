@@ -156,11 +156,6 @@ const MatGeocoder = ({
         fullWidth
         InputProps={{
           inputRef: ref,
-          startAdornment: (
-            <InputAdornment position="start">
-              <SearchIcon color="action" />
-            </InputAdornment>
-          ),
           classes: inputClasses,
           ...other
         }}
