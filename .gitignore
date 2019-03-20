@@ -23,5 +23,5 @@ yarn-error.log*
 
 .vscode/
 
-/dist
+#/dist
 /flow-typed
